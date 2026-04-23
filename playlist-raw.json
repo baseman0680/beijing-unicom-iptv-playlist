@@ -430,32 +430,6 @@
   },
   {
     "channelFECPort": 0,
-    "channelID": "01010001000000050000000000000328",
-    "channelLogoStruct": null,
-    "channelName": "萌宠TV",
-    "channelPurchased": true,
-    "channelSDP": "igmp://239.2.1.102:8002",
-    "channelType": "null",
-    "channelURL": "igmp://239.3.1.102:8001",
-    "timeShift": true,
-    "timeShiftURL": null,
-    "userChannelID": 34
-  },
-  {
-    "channelFECPort": 0,
-    "channelID": "01010001000000050000000000000308",
-    "channelLogoStruct": null,
-    "channelName": "淘Baby",
-    "channelPurchased": true,
-    "channelSDP": "239.2.1.238:8002",
-    "channelType": "null",
-    "channelURL": "igmp://239.3.1.238:8001",
-    "timeShift": false,
-    "timeShiftURL": null,
-    "userChannelID": 36
-  },
-  {
-    "channelFECPort": 0,
     "channelID": "01010001000000050000000000000017",
     "channelLogoStruct": null,
     "channelName": "淘剧场",
@@ -1480,6 +1454,32 @@
     "timeShift": true,
     "timeShiftURL": "rtsp://1.1.1.1:1111/live/ch11091521264797316126.sdp",
     "userChannelID": 209
+  },
+  {
+    "channelFECPort": 0,
+    "channelID": "01010001000000050000000000000328",
+    "channelLogoStruct": null,
+    "channelName": "萌宠TV",
+    "channelPurchased": true,
+    "channelSDP": "igmp://239.2.1.102:8002",
+    "channelType": "null",
+    "channelURL": "igmp://239.3.1.102:8001",
+    "timeShift": true,
+    "timeShiftURL": null,
+    "userChannelID": 211
+  },
+  {
+    "channelFECPort": 0,
+    "channelID": "01010001000000050000000000000308",
+    "channelLogoStruct": null,
+    "channelName": "淘Baby",
+    "channelPurchased": true,
+    "channelSDP": "239.2.1.238:8002",
+    "channelType": "null",
+    "channelURL": "igmp://239.3.1.238:8001",
+    "timeShift": false,
+    "timeShiftURL": null,
+    "userChannelID": 212
   },
   {
     "channelFECPort": 0,
