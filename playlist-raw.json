@@ -430,6 +430,19 @@
   },
   {
     "channelFECPort": 0,
+    "channelID": "01010001000000050000000000008516",
+    "channelLogoStruct": null,
+    "channelName": "求索4K",
+    "channelPurchased": true,
+    "channelSDP": null,
+    "channelType": "1",
+    "channelURL": "igmp://239.3.1.107:8001",
+    "timeShift": false,
+    "timeShiftURL": null,
+    "userChannelID": 36
+  },
+  {
+    "channelFECPort": 0,
     "channelID": "01010001000000050000000000000017",
     "channelLogoStruct": null,
     "channelName": "淘剧场",
@@ -843,6 +856,19 @@
     "timeShift": true,
     "timeShiftURL": "igmp://239.2.1.128:8000",
     "userChannelID": 69
+  },
+  {
+    "channelFECPort": 0,
+    "channelID": "01010001000000050000000000001472",
+    "channelLogoStruct": null,
+    "channelName": "CHC动作电影",
+    "channelPurchased": true,
+    "channelSDP": null,
+    "channelType": "1",
+    "channelURL": "igmp://239.3.1.106:8001",
+    "timeShift": true,
+    "timeShiftURL": null,
+    "userChannelID": 70
   },
   {
     "channelFECPort": 0,
@@ -1498,7 +1524,7 @@
     "channelFECPort": 0,
     "channelID": "01010001000000050000000000000345",
     "channelLogoStruct": null,
-    "channelName": "快乐垂钓",
+    "channelName": "四海钓鱼",
     "channelPurchased": true,
     "channelSDP": null,
     "channelType": "1",
@@ -1511,14 +1537,27 @@
     "channelFECPort": 0,
     "channelID": "01010001000000050000000000000346",
     "channelLogoStruct": null,
-    "channelName": "茶",
+    "channelName": "中国天气",
     "channelPurchased": true,
     "channelSDP": null,
     "channelType": "1",
-    "channelURL": "igmp://239.3.1.165:8001",
-    "timeShift": false,
+    "channelURL": "igmp://239.3.1.108:8001",
+    "timeShift": true,
     "timeShiftURL": null,
-    "userChannelID": 321
+    "userChannelID": 322
+  },
+  {
+    "channelFECPort": 0,
+    "channelID": "01010001000000050000000000008517",
+    "channelLogoStruct": null,
+    "channelName": "环球旅游",
+    "channelPurchased": true,
+    "channelSDP": null,
+    "channelType": "1",
+    "channelURL": "igmp://239.3.1.109:8001",
+    "timeShift": true,
+    "timeShiftURL": null,
+    "userChannelID": 323
   },
   {
     "channelFECPort": 0,
