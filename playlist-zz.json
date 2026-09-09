@@ -16,18 +16,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.129:8008",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225880/10000100000000060000000000025506_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225880/10000100000000060000000000025506_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-2高清": {
     "name": "CCTV-2高清",
@@ -46,18 +37,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.60:8084",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226036/10000100000000060000000000285832_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226036/10000100000000060000000000285832_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-3高清": {
     "name": "CCTV-3高清",
@@ -76,18 +58,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.172:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226100/10000100000000060000000000831268_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226100/10000100000000060000000000831268_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-4高清": {
     "name": "CCTV-4高清",
@@ -106,18 +79,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.105:8092",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226081/10000100000000060000000000545704_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226081/10000100000000060000000000545704_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-5高清": {
     "name": "CCTV-5高清",
@@ -136,18 +100,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.173:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226113/10000100000000060000000000831269_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226113/10000100000000060000000000831269_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-6高清": {
     "name": "CCTV-6高清",
@@ -166,10 +121,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.174:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226102/10000100000000060000000000831270_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -191,18 +142,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.61:8104",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226031/10000100000000060000000000285833_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226031/10000100000000060000000000285833_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-8高清": {
     "name": "CCTV-8高清",
@@ -221,18 +163,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.175:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226115/10000100000000060000000000831271_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226115/10000100000000060000000000831271_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-9高清": {
     "name": "CCTV-9高清",
@@ -251,18 +184,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.62:8112",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226038/10000100000000060000000000285834_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226038/10000100000000060000000000285834_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-10高清": {
     "name": "CCTV-10高清",
@@ -281,18 +205,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.63:8116",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226033/10000100000000060000000000285835_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226033/10000100000000060000000000285835_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-11高清": {
     "name": "CCTV-11高清",
@@ -311,18 +226,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.152:8120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226086/10000100000000060000000000753288_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226086/10000100000000060000000000753288_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-12高清": {
     "name": "CCTV-12高清",
@@ -341,18 +247,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.64:8124",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226040/10000100000000060000000000285836_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226040/10000100000000060000000000285836_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-13高清": {
     "name": "CCTV-13高清",
@@ -371,18 +268,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.124:8128",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226145/10000100000000060000000001103864_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226145/10000100000000060000000001103864_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-14高清": {
     "name": "CCTV-14高清",
@@ -401,18 +289,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.65:8132",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226035/10000100000000060000000000285837_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226035/10000100000000060000000000285837_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-15高清": {
     "name": "CCTV-15高清",
@@ -431,18 +310,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.153:8136",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226099/10000100000000060000000000753287_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226099/10000100000000060000000000753287_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-16高清": {
     "name": "CCTV-16高清",
@@ -461,18 +331,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.184:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226148/10000100000000060000000001234273_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226148/10000100000000060000000001234273_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV17-高清": {
     "name": "CCTV17-高清",
@@ -491,18 +352,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.151:8144",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226095/10000100000000060000000000705941_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226095/10000100000000060000000000705941_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-5+": {
     "name": "CCTV-5+",
@@ -521,18 +373,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.130:8004",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225819/10000100000000060000000000025043_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225819/10000100000000060000000000025043_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "聚鲨环球精选": {
     "name": "聚鲨环球精选",
@@ -551,18 +394,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.179:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226114/10000100000000060000000000930190_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226114/10000100000000060000000000930190_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "央广购物": {
     "name": "央广购物",
@@ -581,18 +415,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.222:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226146/10000100000000060000000001189968_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226146/10000100000000060000000001189968_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "BRTV北京卫视高清": {
     "name": "BRTV北京卫视高清",
@@ -611,18 +436,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.241:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225870/10000100000000060000000000025099_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225870/10000100000000060000000000025099_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "BRTV文艺高清": {
     "name": "BRTV文艺高清",
@@ -641,18 +457,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.242:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225868/10000100000000060000000000025097_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225868/10000100000000060000000000025097_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "BRTV纪实科教高清": {
     "name": "BRTV纪实科教高清",
@@ -671,18 +478,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.115:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226143/10000100000000060000000001010594_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226143/10000100000000060000000001010594_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "BRTV影视高清": {
     "name": "BRTV影视高清",
@@ -701,18 +499,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.158:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226094/10000100000000060000000000804258_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226094/10000100000000060000000000804258_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "BRTV财经高清": {
     "name": "BRTV财经高清",
@@ -731,18 +520,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.116:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226134/10000100000000060000000001010593_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226134/10000100000000060000000001010593_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "BRTV体育休闲高清": {
     "name": "BRTV体育休闲高清",
@@ -761,10 +541,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.243:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225809/10000100000000060000000000025032_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -786,18 +562,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.117:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226141/10000100000000060000000001010592_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226141/10000100000000060000000001010592_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "BRTV卡酷少儿高清": {
     "name": "BRTV卡酷少儿高清",
@@ -816,18 +583,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.189:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226133/10000100000000060000000000943150_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226133/10000100000000060000000000943150_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "BRTV新闻高清": {
     "name": "BRTV新闻高清",
@@ -846,18 +604,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.159:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226092/10000100000000060000000000804251_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226092/10000100000000060000000000804251_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "家有购物精选": {
     "name": "家有购物精选",
@@ -876,18 +625,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.186:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226168/10000100000000060000000001558173_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226168/10000100000000060000000001558173_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "淘精彩": {
     "name": "淘精彩",
@@ -905,18 +645,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.178:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226112/10000100000000060000000000919741_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226112/10000100000000060000000000919741_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "优购物": {
     "name": "优购物",
@@ -935,18 +666,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.180:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226152/10000100000000060000000001234685_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226152/10000100000000060000000001234685_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "时尚购物": {
     "name": "时尚购物",
@@ -966,78 +688,27 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.181:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226165/10000100000000060000000001234687_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226165/10000100000000060000000001234687_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
-  "萌宠TV": {
-    "name": "萌宠TV",
-    "id_sys": "01010001000000050000000000000328",
-    "chno": 34,
-    "tvg_id": 34,
-    "tvg_name": "萌宠TV",
-    "logo": "QiTa/BJIPTV_MengChongTV.png",
-    "group_title": "轮播",
-    "definition": "HD",
-    "flag": [
-      "hd",
-      "group-nvod"
-    ],
-    "live": {
-      "bjunicom-multicast": {
-        "addr": "rtp://239.3.1.102:8001",
-        "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226071/10000100000000060000000000405011_0.smil",
-        "type": "rtsp"
-      }
-    },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226071/10000100000000060000000000405011_0.smil",
-        "type": "rtsp"
-      }
-    }
-  },
-  "淘Baby": {
-    "name": "淘Baby",
-    "id_sys": "01010001000000050000000000000308",
+  "求索4K": {
+    "name": "求索4K",
+    "id_sys": "01010001000000050000000000008516",
     "chno": 36,
     "tvg_id": 36,
-    "tvg_name": "淘Baby",
-    "logo": "QiTa/BJIPTV_TaoBABY.png",
-    "group_title": "轮播",
-    "definition": "HD",
-    "flag": [
-      "hd",
-      "group-nvod"
-    ],
+    "tvg_name": "求索4K",
+    "logo": null,
+    "group_title": null,
+    "definition": null,
+    "flag": [],
     "live": {
       "bjunicom-multicast": {
-        "addr": "rtp://239.3.1.238:8001",
+        "addr": "rtp://239.3.1.107:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226053/10000100000000060000000000362332_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226053/10000100000000060000000000362332_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "淘剧场": {
     "name": "淘剧场",
@@ -1056,18 +727,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.95:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226005/10000100000000060000000000285122_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226005/10000100000000060000000000285122_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "淘电影": {
     "name": "淘电影",
@@ -1086,18 +748,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.250:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225965/10000100000000060000000000157832_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225965/10000100000000060000000000157832_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "淘娱乐": {
     "name": "淘娱乐",
@@ -1116,18 +769,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.100:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226073/10000100000000060000000000405013_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226073/10000100000000060000000000405013_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "4K超清": {
     "name": "4K超清",
@@ -1146,10 +790,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.249:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225968/10000100000000060000000000157831_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -1171,18 +811,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.132:8012",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225871/10000100000000060000000000025095_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225871/10000100000000060000000000025095_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "家有购物": {
     "name": "家有购物",
@@ -1201,18 +832,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.185:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226154/10000100000000060000000001234688_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226154/10000100000000060000000001234688_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "央广购物精选": {
     "name": "央广购物精选",
@@ -1231,18 +853,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.223:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226159/10000100000000060000000001189974_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226159/10000100000000060000000001189974_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "江苏卫视高清": {
     "name": "江苏卫视高清",
@@ -1261,18 +874,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.135:8028",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225881/10000100000000060000000000025507_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225881/10000100000000060000000000025507_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "东方卫视高清": {
     "name": "东方卫视高清",
@@ -1291,18 +895,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.136:8032",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225883/10000100000000060000000000025534_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225883/10000100000000060000000000025534_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "浙江卫视高清": {
     "name": "浙江卫视高清",
@@ -1321,18 +916,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.137:8036",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225957/10000100000000060000000000146902_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225957/10000100000000060000000000146902_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "湖北卫视高清": {
     "name": "湖北卫视高清",
@@ -1351,18 +937,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.138:8044",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225956/10000100000000060000000000146903_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225956/10000100000000060000000000146903_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "天津卫视高清": {
     "name": "天津卫视高清",
@@ -1381,18 +958,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.141:1234",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225984/10000100000000060000000000176931_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225984/10000100000000060000000000176931_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "聚鲨环球": {
     "name": "聚鲨环球",
@@ -1411,18 +979,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.160:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226166/10000100000000060000000001476155_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226166/10000100000000060000000001476155_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "山东卫视高清": {
     "name": "山东卫视高清",
@@ -1441,18 +1000,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.209:8052",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226002/10000100000000060000000000205202_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226002/10000100000000060000000000205202_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "辽宁卫视高清": {
     "name": "辽宁卫视高清",
@@ -1471,18 +1021,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.210:8056",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226000/10000100000000060000000000205199_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226000/10000100000000060000000000205199_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "安徽卫视高清": {
     "name": "安徽卫视高清",
@@ -1501,18 +1042,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.211:8064",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225999/10000100000000060000000000205203_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225999/10000100000000060000000000205203_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "黑龙江卫视高清": {
     "name": "黑龙江卫视高清",
@@ -1531,18 +1063,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.133:8016",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225864/10000100000000060000000000025092_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225864/10000100000000060000000000025092_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "贵州卫视高清": {
     "name": "贵州卫视高清",
@@ -1561,18 +1084,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.149:8076",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226097/10000100000000060000000000736148_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226097/10000100000000060000000000736148_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "东南卫视高清": {
     "name": "东南卫视高清",
@@ -1591,18 +1105,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.156:8148",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226101/10000100000000060000000000793946_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226101/10000100000000060000000000793946_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "重庆卫视高清": {
     "name": "重庆卫视高清",
@@ -1621,18 +1126,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.122:8160",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226147/10000100000000060000000001103866_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226147/10000100000000060000000001103866_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "江西卫视高清": {
     "name": "江西卫视高清",
@@ -1651,18 +1147,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.123:8164",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226136/10000100000000060000000001103865_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226136/10000100000000060000000001103865_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "河南卫视高清": {
     "name": "河南卫视高清",
@@ -1683,13 +1170,13 @@
         "type": "rtp"
       },
       "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226189/382569577.smil",
+        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226156/10000100000000060000000001276309_0.smil",
         "type": "rtsp"
       }
     },
     "timeshift": {
       "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226189/382569577.smil",
+        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226156/10000100000000060000000001276309_0.smil",
         "type": "rtsp"
       }
     }
@@ -1712,18 +1199,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.190:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226171/10000100000000060000000001311653_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226171/10000100000000060000000001311653_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "时尚购物精选": {
     "name": "时尚购物精选",
@@ -1743,18 +1221,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.191:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226169/10000100000000060000000001311650_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226169/10000100000000060000000001311650_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "甘肃卫视高清": {
     "name": "甘肃卫视高清",
@@ -1773,18 +1242,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.201:8180",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226197/397709753.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226197/397709753.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "西藏卫视高清": {
     "name": "西藏卫视高清",
@@ -1803,18 +1263,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.166:8188",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226192/400975121.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226192/400975121.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "新疆卫视高清": {
     "name": "新疆卫视高清",
@@ -1833,18 +1284,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.167:8192",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226201/400975092.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226201/400975092.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "兵团卫视高清": {
     "name": "兵团卫视高清",
@@ -1863,18 +1305,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.168:8196",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226199/400975082.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226199/400975082.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "睛彩竞技": {
     "name": "睛彩竞技",
@@ -1893,18 +1326,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.125:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226160/10000100000000060000000001464323_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226160/10000100000000060000000001464323_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "睛彩篮球": {
     "name": "睛彩篮球",
@@ -1923,18 +1347,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.126:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226162/10000100000000060000000001464344_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226162/10000100000000060000000001464344_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "睛彩羽毛球": {
     "name": "睛彩羽毛球",
@@ -1953,18 +1368,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.127:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226175/10000100000000060000000001464349_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226175/10000100000000060000000001464349_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "睛彩广场舞": {
     "name": "睛彩广场舞",
@@ -1983,18 +1389,27 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.128:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226164/10000100000000060000000001464351_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226164/10000100000000060000000001464351_0.smil",
-        "type": "rtsp"
+    "timeshift": {}
+  },
+  "CHC动作电影": {
+    "name": "CHC动作电影",
+    "id_sys": "01010001000000050000000000001472",
+    "chno": 70,
+    "tvg_id": 70,
+    "tvg_name": "CHC动作电影",
+    "logo": null,
+    "group_title": null,
+    "definition": null,
+    "flag": [],
+    "live": {
+      "bjunicom-multicast": {
+        "addr": "rtp://239.3.1.106:8001",
+        "type": "rtp"
       }
-    }
+    },
+    "timeshift": {}
   },
   "宁夏卫视高清": {
     "name": "宁夏卫视高清",
@@ -2013,10 +1428,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.169:8212",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226190/400975111.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -2038,18 +1449,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.142:8048",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225983/10000100000000060000000000176932_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225983/10000100000000060000000000176932_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "河北卫视高清": {
     "name": "河北卫视高清",
@@ -2068,18 +1470,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.148:8072",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226082/10000100000000060000000000736149_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226082/10000100000000060000000000736149_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "深圳卫视高清": {
     "name": "深圳卫视高清",
@@ -2098,18 +1491,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.134:8020",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225869/10000100000000060000000000025093_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225869/10000100000000060000000000025093_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "纪实频道HD": {
     "name": "纪实频道HD",
@@ -2127,18 +1511,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.212:8060",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226004/10000100000000060000000000205204_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226004/10000100000000060000000000205204_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CETV1高清": {
     "name": "CETV1高清",
@@ -2157,18 +1532,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.57:8152",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226065/10000100000000060000000000384776_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226065/10000100000000060000000000384776_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "金鹰纪实高清": {
     "name": "金鹰纪实高清",
@@ -2187,18 +1553,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.58:8156",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226050/10000100000000060000000000384062_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226050/10000100000000060000000000384062_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "吉林卫视高清": {
     "name": "吉林卫视高清",
@@ -2217,18 +1574,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.240:8172",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226161/10000100000000060000000001233339_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226161/10000100000000060000000001233339_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "中国交通": {
     "name": "中国交通",
@@ -2247,18 +1595,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.188:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226173/10000100000000060000000001341044_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226173/10000100000000060000000001341044_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "证券服务": {
     "name": "证券服务",
@@ -2357,10 +1696,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.225:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225814/10000100000000060000000000025042_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -2382,10 +1717,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.226:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225817/10000100000000060000000000025041_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -2407,10 +1738,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.227:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225812/10000100000000060000000000025040_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -2432,10 +1759,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.228:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225813/10000100000000060000000000025038_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -2457,10 +1780,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.229:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225810/10000100000000060000000000025037_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -2483,10 +1802,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.230:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225806/10000100000000060000000000025035_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -2508,10 +1823,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.231:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225815/10000100000000060000000000025039_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -2533,10 +1844,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.234:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225879/10000100000000060000000000025505_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -2558,10 +1865,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.233:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225811/10000100000000060000000000025034_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -2583,18 +1886,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.235:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225804/10000100000000060000000000025033_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225804/10000100000000060000000000025033_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "山东教育": {
     "name": "山东教育",
@@ -2613,18 +1907,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.52:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226063/10000100000000060000000000384747_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226063/10000100000000060000000000384747_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "四川卫视": {
     "name": "四川卫视",
@@ -2643,18 +1928,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.29:8288",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225831/10000100000000060000000000025055_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225831/10000100000000060000000000025055_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "广西卫视": {
     "name": "广西卫视",
@@ -2673,18 +1949,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.39:8300",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225840/10000100000000060000000000025069_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225840/10000100000000060000000000025069_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "陕西卫视": {
     "name": "陕西卫视",
@@ -2703,18 +1970,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.41:8140",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225836/10000100000000060000000000025065_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225836/10000100000000060000000000025065_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "山西卫视": {
     "name": "山西卫视",
@@ -2733,18 +1991,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.42:8172",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225843/10000100000000060000000000025066_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225843/10000100000000060000000000025066_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "内蒙古卫视": {
     "name": "内蒙古卫视",
@@ -2763,18 +2012,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.43:8176",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225845/10000100000000060000000000025068_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225845/10000100000000060000000000025068_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "青海卫视": {
     "name": "青海卫视",
@@ -2793,18 +2033,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.44:8184",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225847/10000100000000060000000000025070_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225847/10000100000000060000000000025070_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "海南卫视": {
     "name": "海南卫视",
@@ -2823,18 +2054,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.45:8304",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225842/10000100000000060000000000025071_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225842/10000100000000060000000000025071_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "三沙卫视": {
     "name": "三沙卫视",
@@ -2853,18 +2075,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.155:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226088/10000100000000060000000000793947_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226088/10000100000000060000000000793947_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "云南卫视": {
     "name": "云南卫视",
@@ -2883,18 +2096,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.26:8108",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225827/10000100000000060000000000025051_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225827/10000100000000060000000000025051_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "厦门卫视": {
     "name": "厦门卫视",
@@ -2913,18 +2117,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.143:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225990/10000100000000060000000000176937_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225990/10000100000000060000000000176937_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "南方卫视": {
     "name": "南方卫视",
@@ -2942,18 +2137,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.161:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226087/10000100000000060000000000658473_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226087/10000100000000060000000000658473_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "金鹰卡通": {
     "name": "金鹰卡通",
@@ -2972,18 +2158,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.51:9252",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225846/10000100000000060000000000025075_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225846/10000100000000060000000000025075_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "嘉佳卡通": {
     "name": "嘉佳卡通",
@@ -3002,18 +2179,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.147:9268",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225986/10000100000000060000000000176933_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225986/10000100000000060000000000176933_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CETV2": {
     "name": "CETV2",
@@ -3032,49 +2200,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.54:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226067/10000100000000060000000000384778_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226067/10000100000000060000000000384778_0.smil",
-        "type": "rtsp"
-      }
-    }
-  },
-  "CETV3": {
-    "name": "CETV3",
-    "id_sys": "00005000000000000000000000000250",
-    "chno": 173,
-    "tvg_id": 173,
-    "tvg_name": "CETV3",
-    "logo": "QiTa/CETV-3.png",
-    "group_title": "卫视标清",
-    "definition": "SD",
-    "flag": [
-      "ignore",
-      "sd",
-      "group-province"
-    ],
-    "live": {
-      "bjunicom-multicast": {
-        "addr": "rtp://239.3.1.55:4120",
-        "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226056/10000100000000060000000000384779_0.smil",
-        "type": "rtsp"
-      }
-    },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226056/10000100000000060000000000384779_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CETV4": {
     "name": "CETV4",
@@ -3093,18 +2221,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.56:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226054/10000100000000060000000000384777_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226054/10000100000000060000000000384777_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "收视指南": {
     "name": "收视指南",
@@ -3123,18 +2242,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.193:8012",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225853/10000100000000060000000000025076_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225853/10000100000000060000000000025076_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "热播剧场": {
     "name": "热播剧场",
@@ -3153,18 +2263,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.194:9020",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225855/10000100000000060000000000025078_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225855/10000100000000060000000000025078_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "经典电影": {
     "name": "经典电影",
@@ -3183,18 +2284,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.195:9024",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225857/10000100000000060000000000025082_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225857/10000100000000060000000000025082_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "魅力时尚": {
     "name": "魅力时尚",
@@ -3213,25 +2305,16 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.196:9012",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225850/10000100000000060000000000025079_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225850/10000100000000060000000000025079_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
-  "IPTV6＋": {
-    "name": "IPTV6＋",
+  "IPTV6+": {
+    "name": "IPTV6+",
     "id_sys": "00000001000000050000000000000107",
     "chno": 205,
     "tvg_id": 205,
-    "tvg_name": "IPTV6＋",
+    "tvg_name": "IPTV6+",
     "logo": null,
     "group_title": null,
     "definition": null,
@@ -3242,25 +2325,16 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.197:9016",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225852/10000100000000060000000000025080_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225852/10000100000000060000000000025080_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
-  "IPTV3＋": {
-    "name": "IPTV3＋",
+  "IPTV3+": {
+    "name": "IPTV3+",
     "id_sys": "00000001000000050000000000000104",
     "chno": 206,
     "tvg_id": 206,
-    "tvg_name": "IPTV3＋",
+    "tvg_name": "IPTV3+",
     "logo": null,
     "group_title": null,
     "definition": null,
@@ -3271,18 +2345,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.198:9004",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225854/10000100000000060000000000025081_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225854/10000100000000060000000000025081_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "少儿动画": {
     "name": "少儿动画",
@@ -3301,54 +2366,38 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.199:9000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225859/10000100000000060000000000025083_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225859/10000100000000060000000000025083_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
-  "IPTV5＋": {
-    "name": "IPTV5＋",
+  "IPTV5+": {
+    "name": "IPTV5+",
     "id_sys": "00000001000000050000000000000105",
     "chno": 208,
     "tvg_id": 208,
-    "tvg_name": "IPTV5＋",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
+    "tvg_name": "IPTV5+",
+    "logo": "QiTa/IPTV5+.png",
+    "group_title": "轮播",
+    "definition": "SD",
     "flag": [
-      "ignore"
+      "ignore",
+      "sd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.200:9008",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225856/10000100000000060000000000025084_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225856/10000100000000060000000000025084_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
-  "IPTV8＋": {
-    "name": "IPTV8＋",
+  "IPTV8+": {
+    "name": "IPTV8+",
     "id_sys": "00000001000000050000000000000146",
     "chno": 209,
     "tvg_id": 209,
-    "tvg_name": "IPTV8＋",
+    "tvg_name": "IPTV8+",
     "logo": null,
     "group_title": null,
     "definition": null,
@@ -3359,18 +2408,51 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.201:8072",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225861/10000100000000060000000000025085_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225861/10000100000000060000000000025085_0.smil",
-        "type": "rtsp"
+    "timeshift": {}
+  },
+  "萌宠TV": {
+    "name": "萌宠TV",
+    "id_sys": "01010001000000050000000000000328",
+    "chno": 211,
+    "tvg_id": 211,
+    "tvg_name": "萌宠TV",
+    "logo": "QiTa/BJIPTV_MengChongTV.png",
+    "group_title": "轮播",
+    "definition": "HD",
+    "flag": [
+      "hd",
+      "group-nvod"
+    ],
+    "live": {
+      "bjunicom-multicast": {
+        "addr": "rtp://239.3.1.102:8001",
+        "type": "rtp"
       }
-    }
+    },
+    "timeshift": {}
+  },
+  "淘Baby": {
+    "name": "淘Baby",
+    "id_sys": "01010001000000050000000000000308",
+    "chno": 212,
+    "tvg_id": 212,
+    "tvg_name": "淘Baby",
+    "logo": "QiTa/BJIPTV_TaoBABY.png",
+    "group_title": "轮播",
+    "definition": "HD",
+    "flag": [
+      "hd",
+      "group-nvod"
+    ],
+    "live": {
+      "bjunicom-multicast": {
+        "addr": "rtp://239.3.1.238:8001",
+        "type": "rtp"
+      }
+    },
+    "timeshift": {}
   },
   "房山电视台": {
     "name": "房山电视台",
@@ -3389,18 +2471,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.96:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226077/10000100000000060000000000405017_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226077/10000100000000060000000000405017_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "北京朝阳": {
     "name": "北京朝阳",
@@ -3534,84 +2607,59 @@
     },
     "timeshift": {}
   },
-  "快乐垂钓": {
-    "name": "快乐垂钓",
+  "四海钓鱼": {
+    "name": "四海钓鱼",
     "id_sys": "01010001000000050000000000000345",
     "chno": 320,
     "tvg_id": 320,
-    "tvg_name": "快乐垂钓",
-    "logo": "QiTa/HuNan_KuaiLeChuiDiao.png",
-    "group_title": "体验",
-    "definition": "HD",
-    "flag": [
-      "hd",
-      "group-trial"
-    ],
+    "tvg_name": "四海钓鱼",
+    "logo": null,
+    "group_title": null,
+    "definition": null,
+    "flag": [],
     "live": {
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.164:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226074/10000100000000060000000000659528_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
   },
-  "茶": {
-    "name": "茶",
+  "中国天气": {
+    "name": "中国天气",
     "id_sys": "01010001000000050000000000000346",
-    "chno": 321,
-    "tvg_id": 321,
-    "tvg_name": "茶",
-    "logo": "QiTa/HuNan_ChaPinDao.png",
-    "group_title": "体验",
-    "definition": "HD",
-    "flag": [
-      "hd",
-      "group-trial"
-    ],
-    "live": {
-      "bjunicom-multicast": {
-        "addr": "rtp://239.3.1.165:8001",
-        "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226089/10000100000000060000000000659527_0.smil",
-        "type": "rtsp"
-      }
-    },
-    "timeshift": {}
-  },
-  "熊猫频道": {
-    "name": "熊猫频道",
-    "id_sys": "00000001000000050000000000000533",
-    "chno": 324,
-    "tvg_id": 324,
-    "tvg_name": "熊猫频道",
+    "chno": 322,
+    "tvg_id": 322,
+    "tvg_name": "中国天气",
     "logo": null,
     "group_title": null,
     "definition": null,
-    "flag": [
-      "ignore"
-    ],
+    "flag": [],
     "live": {
       "bjunicom-multicast": {
-        "addr": "rtp://239.3.1.66:8068",
+        "addr": "rtp://239.3.1.108:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226042/10000100000000060000000000285838_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226042/10000100000000060000000000285838_0.smil",
-        "type": "rtsp"
+    "timeshift": {}
+  },
+  "环球旅游": {
+    "name": "环球旅游",
+    "id_sys": "01010001000000050000000000008517",
+    "chno": 323,
+    "tvg_id": 323,
+    "tvg_name": "环球旅游",
+    "logo": null,
+    "group_title": null,
+    "definition": null,
+    "flag": [],
+    "live": {
+      "bjunicom-multicast": {
+        "addr": "rtp://239.3.1.109:8001",
+        "type": "rtp"
       }
-    }
+    },
+    "timeshift": {}
   },
   "CCTV-4欧洲高清": {
     "name": "CCTV-4欧洲高清",
@@ -3630,18 +2678,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.213:4220",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226138/10000100000000060000000001154838_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226138/10000100000000060000000001154838_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CCTV-4美洲高清": {
     "name": "CCTV-4美洲高清",
@@ -3660,18 +2699,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.214:4220",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226149/10000100000000060000000001154841_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226149/10000100000000060000000001154841_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CGTN英语": {
     "name": "CGTN英语",
@@ -3690,18 +2720,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.215:4220",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226151/10000100000000060000000001154843_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226151/10000100000000060000000001154843_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CGTN英文纪录": {
     "name": "CGTN英文纪录",
@@ -3720,18 +2741,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.216:4220",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226153/10000100000000060000000001154845_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226153/10000100000000060000000001154845_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CGTN西班牙语": {
     "name": "CGTN西班牙语",
@@ -3750,18 +2762,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.217:4220",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226140/10000100000000060000000001154848_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226140/10000100000000060000000001154848_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CGTN法语": {
     "name": "CGTN法语",
@@ -3780,18 +2783,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.218:4220",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226142/10000100000000060000000001154852_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226142/10000100000000060000000001154852_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CGTN阿拉伯语": {
     "name": "CGTN阿拉伯语",
@@ -3810,18 +2804,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.219:4220",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226155/10000100000000060000000001154853_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226155/10000100000000060000000001154853_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "CGTN俄语": {
     "name": "CGTN俄语",
@@ -3840,18 +2825,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.220:4220",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226144/10000100000000060000000001154854_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226144/10000100000000060000000001154854_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "重温经典": {
     "name": "重温经典",
@@ -3895,18 +2871,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.67:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226037/10000100000000060000000000285839_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226037/10000100000000060000000000285839_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "军旅剧场": {
     "name": "军旅剧场",
@@ -3925,18 +2892,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.68:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226007/10000100000000060000000000285639_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226007/10000100000000060000000000285639_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "古装剧场": {
     "name": "古装剧场",
@@ -3955,18 +2913,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.69:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226012/10000100000000060000000000285640_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226012/10000100000000060000000000285640_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "音乐现场": {
     "name": "音乐现场",
@@ -3985,18 +2934,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.70:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226014/10000100000000060000000000285642_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226014/10000100000000060000000000285642_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "地理": {
     "name": "地理",
@@ -4015,10 +2955,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.71:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226043/10000100000000060000000000286229_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -4040,18 +2976,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.72:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226016/10000100000000060000000000285644_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226016/10000100000000060000000000285644_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "美人": {
     "name": "美人",
@@ -4070,18 +2997,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.73:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226011/10000100000000060000000000285645_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226011/10000100000000060000000000285645_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "精选": {
     "name": "精选",
@@ -4100,18 +3018,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.74:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226018/10000100000000060000000000285646_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226018/10000100000000060000000000285646_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "解密": {
     "name": "解密",
@@ -4130,18 +3039,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.75:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226013/10000100000000060000000000285647_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226013/10000100000000060000000000285647_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "军事": {
     "name": "军事",
@@ -4160,18 +3060,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.76:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226020/10000100000000060000000000285648_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226020/10000100000000060000000000285648_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "国学": {
     "name": "国学",
@@ -4190,18 +3081,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.77:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226015/10000100000000060000000000285649_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226015/10000100000000060000000000285649_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "戏曲": {
     "name": "戏曲",
@@ -4220,18 +3102,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.78:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226022/10000100000000060000000000285650_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226022/10000100000000060000000000285650_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "早教": {
     "name": "早教",
@@ -4250,18 +3123,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.79:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226017/10000100000000060000000000285651_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226017/10000100000000060000000000285651_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "动画": {
     "name": "动画",
@@ -4280,18 +3144,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.80:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226024/10000100000000060000000000285652_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226024/10000100000000060000000000285652_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "好学生": {
     "name": "好学生",
@@ -4310,18 +3165,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.81:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226019/10000100000000060000000000285653_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226019/10000100000000060000000000285653_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "鉴赏": {
     "name": "鉴赏",
@@ -4340,18 +3186,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.82:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226026/10000100000000060000000000285654_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226026/10000100000000060000000000285654_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "墨宝": {
     "name": "墨宝",
@@ -4370,18 +3207,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.83:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226021/10000100000000060000000000285655_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226021/10000100000000060000000000285655_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "光影": {
     "name": "光影",
@@ -4400,18 +3228,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.84:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226028/10000100000000060000000000285656_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226028/10000100000000060000000000285656_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "台球": {
     "name": "台球",
@@ -4430,18 +3249,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.85:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226023/10000100000000060000000000285657_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226023/10000100000000060000000000285657_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "爱生活": {
     "name": "爱生活",
@@ -4460,18 +3270,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.86:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226030/10000100000000060000000000285658_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226030/10000100000000060000000000285658_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "武术": {
     "name": "武术",
@@ -4490,18 +3291,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.87:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226025/10000100000000060000000000285659_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226025/10000100000000060000000000285659_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "高网": {
     "name": "高网",
@@ -4520,18 +3312,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.88:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226032/10000100000000060000000000285660_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226032/10000100000000060000000000285660_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "足球": {
     "name": "足球",
@@ -4550,18 +3333,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.89:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226027/10000100000000060000000000285661_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226027/10000100000000060000000000285661_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "武侠剧场": {
     "name": "武侠剧场",
@@ -4580,18 +3354,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.90:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226041/10000100000000060000000000286228_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226041/10000100000000060000000000286228_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "喜剧影院": {
     "name": "喜剧影院",
@@ -4610,18 +3375,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.91:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226044/10000100000000060000000000286227_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226044/10000100000000060000000000286227_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "动作影院": {
     "name": "动作影院",
@@ -4640,18 +3396,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.92:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226039/10000100000000060000000000286226_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226039/10000100000000060000000000286226_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "家庭影院": {
     "name": "家庭影院",
@@ -4670,18 +3417,9 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.93:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226034/10000100000000060000000000285685_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226034/10000100000000060000000000285685_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
   "星影": {
     "name": "星影",
@@ -4700,25 +3438,16 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.94:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226029/10000100000000060000000000285686_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226029/10000100000000060000000000285686_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
-  "IPTV5＋高清": {
-    "name": "IPTV5＋高清",
+  "IPTV5+高清": {
+    "name": "IPTV5+高清",
     "id_sys": "00000001000000050000000000000546",
     "chno": 379,
     "tvg_id": 379,
-    "tvg_name": "IPTV5＋高清",
+    "tvg_name": "IPTV5+高清",
     "logo": "QiTa/IPTV5+.png",
     "group_title": "轮播",
     "definition": "HD",
@@ -4731,39 +3460,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.237:4120",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226051/10000100000000060000000000332895_0.smil",
-        "type": "rtsp"
-      }
-    },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226051/10000100000000060000000000332895_0.smil",
-        "type": "rtsp"
-      }
-    }
-  },
-  "体育赛事高清": {
-    "name": "体育赛事高清",
-    "id_sys": "00000001000000050000000000000590",
-    "chno": 380,
-    "tvg_id": 380,
-    "tvg_name": "体育赛事高清",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
-    "flag": [
-      "ignore"
-    ],
-    "live": {
-      "bjunicom-multicast": {
-        "addr": "rtp://239.3.1.157:8176",
-        "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226103/10000100000000060000000000793948_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -4785,10 +3481,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.236:2000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226046/10000100000000060000000000323100_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -4809,10 +3501,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.120:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226137/10000100000000060000000001010588_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -4833,10 +3521,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.121:8000",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226130/10000100000000060000000001010587_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -4858,10 +3542,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.112:3002",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226202/403519084.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -4908,10 +3588,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.113:3003",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226207/403519600.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -4958,10 +3634,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.119:3006",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226211/403519965.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -4983,10 +3655,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.114:3004",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226209/403519959.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -5008,10 +3676,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.144:3005",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226206/403519612.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -5033,10 +3697,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.131:3001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226204/403519606.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -5066,37 +3726,6 @@
     },
     "timeshift": {}
   },
-  "CCTV-16 4K": {
-    "name": "CCTV-16 4K",
-    "id_sys": "01010001000000050000000000000388",
-    "chno": 498,
-    "tvg_id": 498,
-    "tvg_name": "CCTV-16 4K",
-    "logo": "CCTV/CCTV-16.png",
-    "group_title": "央视超高清",
-    "definition": "UHD",
-    "flag": [
-      "ignore",
-      "uhd",
-      "group-cctv"
-    ],
-    "live": {
-      "bjunicom-multicast": {
-        "addr": "rtp://239.3.1.183:8001",
-        "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226150/10000100000000060000000001234274_0.smil",
-        "type": "rtsp"
-      }
-    },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226150/10000100000000060000000001234274_0.smil",
-        "type": "rtsp"
-      }
-    }
-  },
   "VBR测试-2": {
     "name": "VBR测试-2",
     "id_sys": "01010001000000050000000000000127",
@@ -5113,25 +3742,16 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.140:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225893/10000100000000060000000000146741_0.smil",
-        "type": "rtsp"
       }
     },
-    "timeshift": {
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221225893/10000100000000060000000000146741_0.smil",
-        "type": "rtsp"
-      }
-    }
+    "timeshift": {}
   },
-  "轮播频道5": {
-    "name": "轮播频道5",
+  "轮播-5": {
+    "name": "轮播-5",
     "id_sys": "01010001000000050000000000000018",
     "chno": 505,
     "tvg_id": 505,
-    "tvg_name": "轮播频道5",
+    "tvg_name": "轮播-5",
     "logo": null,
     "group_title": null,
     "definition": null,
@@ -5142,10 +3762,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.253:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225966/10000100000000060000000000157829_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -5166,10 +3782,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.139:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221225892/10000100000000060000000000146742_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -5192,10 +3804,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.104:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226058/10000100000000060000000000405010_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
@@ -5216,58 +3824,6 @@
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.103:8001",
         "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226069/10000100000000060000000000405009_0.smil",
-        "type": "rtsp"
-      }
-    },
-    "timeshift": {}
-  },
-  "总平台测试1": {
-    "name": "总平台测试1",
-    "id_sys": "00000001000000050000000000000558",
-    "chno": 522,
-    "tvg_id": 522,
-    "tvg_name": "总平台测试1",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
-    "flag": [
-      "ignore"
-    ],
-    "live": {
-      "bjunicom-multicast": {
-        "addr": "rtp://239.3.1.247:2000",
-        "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226055/10000100000000060000000000364380_0.smil",
-        "type": "rtsp"
-      }
-    },
-    "timeshift": {}
-  },
-  "总平台测试2": {
-    "name": "总平台测试2",
-    "id_sys": "00000001000000050000000000000560",
-    "chno": 523,
-    "tvg_id": 523,
-    "tvg_name": "总平台测试2",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
-    "flag": [
-      "ignore"
-    ],
-    "live": {
-      "bjunicom-multicast": {
-        "addr": "rtp://239.3.1.248:2000",
-        "type": "rtp"
-      },
-      "bjunicom-rtsp": {
-        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226048/10000100000000060000000000364379_0.smil",
-        "type": "rtsp"
       }
     },
     "timeshift": {}
